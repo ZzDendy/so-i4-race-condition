@@ -1,0 +1,52 @@
+{
+  "target": 20000,
+  "ulang": 3,
+  "hasil": {
+    "tanpa_mutex": [
+      {
+        "ditulis": 20000,
+        "dibaca": 20000,
+        "hilang": 0,
+        "duplikat": 19800,
+        "unik": 200
+      },
+      {
+        "ditulis": 20000,
+        "dibaca": 20000,
+        "hilang": 0,
+        "duplikat": 19792,
+        "unik": 208
+      },
+      {
+        "ditulis": 20000,
+        "dibaca": 20000,
+        "hilang": 0,
+        "duplikat": 19888,
+        "unik": 112
+      }
+    ],
+    "dengan_mutex": [
+      {
+        "ditulis": 20000,
+        "dibaca": 20000,
+        "hilang": 0,
+        "duplikat": 0,
+        "unik": 20000
+      },
+      {
+        "ditulis": 20000,
+        "dibaca": 20000,
+        "hilang": 0,
+        "duplikat": 0,
+        "unik": 20000
+      },
+      {
+        "ditulis": 20000,
+        "dibaca": 20000,
+        "hilang": 0,
+        "duplikat": 0,
+        "unik": 20000
+      }
+    ]
+  }
+}

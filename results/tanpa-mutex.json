@@ -1,0 +1,87 @@
+{
+  "jeda": 2e-05,
+  "besar_buffer": 8,
+  "target": 2000,
+  "hasil": [
+    {
+      "run": 1,
+      "ditulis": 2000,
+      "dibaca": 1997,
+      "hilang": 3,
+      "duplikat": 248,
+      "unik": 1749
+    },
+    {
+      "run": 2,
+      "ditulis": 2000,
+      "dibaca": 1996,
+      "hilang": 4,
+      "duplikat": 247,
+      "unik": 1749
+    },
+    {
+      "run": 3,
+      "ditulis": 2000,
+      "dibaca": 1995,
+      "hilang": 5,
+      "duplikat": 275,
+      "unik": 1720
+    },
+    {
+      "run": 4,
+      "ditulis": 2000,
+      "dibaca": 1994,
+      "hilang": 6,
+      "duplikat": 266,
+      "unik": 1728
+    },
+    {
+      "run": 5,
+      "ditulis": 2000,
+      "dibaca": 1997,
+      "hilang": 3,
+      "duplikat": 219,
+      "unik": 1778
+    },
+    {
+      "run": 6,
+      "ditulis": 2000,
+      "dibaca": 1992,
+      "hilang": 8,
+      "duplikat": 273,
+      "unik": 1719
+    },
+    {
+      "run": 7,
+      "ditulis": 2000,
+      "dibaca": 1997,
+      "hilang": 3,
+      "duplikat": 256,
+      "unik": 1741
+    },
+    {
+      "run": 8,
+      "ditulis": 2000,
+      "dibaca": 2000,
+      "hilang": 0,
+      "duplikat": 260,
+      "unik": 1740
+    },
+    {
+      "run": 9,
+      "ditulis": 2000,
+      "dibaca": 1993,
+      "hilang": 7,
+      "duplikat": 277,
+      "unik": 1716
+    },
+    {
+      "run": 10,
+      "ditulis": 2000,
+      "dibaca": 1993,
+      "hilang": 7,
+      "duplikat": 268,
+      "unik": 1725
+    }
+  ]
+}
